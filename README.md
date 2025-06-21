@@ -2,6 +2,11 @@
 
 This project analyzes a travel insurance dataset using Python libraries `pandas`, `seaborn`, and `matplotlib`. The main goal is to explore relationships between claims and other variables like age, agency type, and sales data.
 
+![](image-1.png)
+![](image-2.png)
+![](image-3.png)
+![](image-4.png)
+
 ## 📦 Dataset
 
 - **Source**: [Kaggle - Travel Insurance Dataset](https://www.kaggle.com/datasets/mhdzahier/travel-insurance)
